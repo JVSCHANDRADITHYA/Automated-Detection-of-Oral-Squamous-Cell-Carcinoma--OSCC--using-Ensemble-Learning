@@ -1,0 +1,2 @@
+# Automated Detection of Oral Squamous Cell Carcinoma (OSCC) using Ensemble Learning
+ Oral Squamous Cell Carcinoma (OSCC) is a common and aggressive form of oral cancer. Early and accurate detection is critical for effective treatment and improving patient outcomes. This project aims to develop an automated system to detect OSCC using ensemble learning techniques, leveraging multiple pre-trained deep learning models to achieve high accuracy in differentiating between normal oral tissues and OSCC.
